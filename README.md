@@ -3,6 +3,8 @@ This loading screen will cycle through 34 different GTA V loading sreens using b
 
 The infobox will show the last 5 tweets from the FiveM twitter account using TwitterFetcher.
 
+![screenshot](screenshot.png)
+
 ## Built With
 * [Backstetch](https://github.com/jquery-backstretch/jquery-backstretch)
 * [Twitter-Post-Fetcher](https://github.com/jasonmayes/Twitter-Post-Fetcher)
