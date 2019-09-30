@@ -1,10 +1,9 @@
-Hi,
+# fivem-loadingscreen
+This loading screen will cycle through 34 different GTA V loading sreens using backstretch in random order but you can add or remove backgrounds by editing the backgrounds.js file and updating the __resource.lua file. 
 
-This is a very messy remake of the GTA:Online loading screen. It is totally up to yourself to edit and / or
-improve it. I am not providing support or whatsoever. (I mean what is there even to support?)
-Index redirects to timeout after an x amount of time. Uhh, infobox is an image and there are a lot of
-traces of a background slider which I used from another system.
+The infobox will show the last 5 tweets from the FiveM twitter account using TwitterFetcher.
 
-Good luck!
-
-- Skypo
+## Built With
+* [Backstetch](https://github.com/jquery-backstretch/jquery-backstretch)
+* [Twitter-Post-Fetcher](https://github.com/jasonmayes/Twitter-Post-Fetcher)
+* [The original fivem-loadingscreen](https://github.com/OfficialSkypo/fivem-loadingscreen)
